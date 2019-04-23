@@ -1,0 +1,10 @@
+{
+    "description": "Simple Test Package", 
+    "displayName": "Simple Test Package", 
+    "name": "com.JfranMora.simple-package", 
+    "repository": {
+        "revision": "f6830e2decdab13b9a19d8bf39509a8f0a8d349e", 
+        "type": "git", 
+        "url": "git@gitlab.cds.internal.unity3d.com:upm-packages/analytics/com.unity.analytics.git"
+    }
+}
